@@ -23,5 +23,5 @@
 	silent = false
 	async = false
 [deploy]
-	host = localhost
+	host = mini
 	path = ~/myproject/git/docker/networkboot/docker-dhcpd
